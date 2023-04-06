@@ -25,6 +25,10 @@
 - Alternatively, download and put the folder in your Assets
 - Open the LUT Generator Window under Window>Generation>LUT
 
+## Example Video
+
+![](Example.mp4)
+
 ## Author
 
 - [Henrik Hustoft](https://www.linkedin.com/in/henrik-hustoft-2366ab220/)
