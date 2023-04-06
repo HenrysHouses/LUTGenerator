@@ -27,7 +27,7 @@
 
 ## Example Video
 
-[![YouTube](https://www.kindpng.com/picc/m/106-1068445_youtube-youtube-vector-logo-png-transparent-png.png)](https://www.youtube.com/watch?v=kaWDri2LbXs&ab_channel=RoockoeFeller))
+[Youtube](https://www.youtube.com/watch?v=kaWDri2LbXs&ab_channel=RoockoeFeller)
 
 ## Author
 
