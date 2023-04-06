@@ -27,7 +27,9 @@
 
 ## Example Video
 
-![](Example.mp4)
+<video width="320" height="240" controls>
+  <source src="Example.mp4" type="video/mp4">
+</video>
 
 ## Author
 
