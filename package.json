@@ -1,0 +1,21 @@
+{
+  "name": "com.henrikhustoft.lut-texture-generator",
+  "version": "0.1.0",
+  "displayName": "LUT Texture Generator",
+  "description": "A tool to quickly generate and preview look up table textures directly on materials",
+  "unity": "2021.3",
+  "keywords": [
+    "LUT",
+    "Look Up Table",
+    "Gradient",
+    "Preview",
+    "Texture",
+    "Generator",
+    "Workflow",
+    "Tool"
+  ],
+  "author": {
+    "name": "Henrik Hustoft",
+    "url": "https://www.linkedin.com/in/henrik-hustoft-2366ab220/"
+  }
+}
