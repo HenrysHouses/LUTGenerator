@@ -20,7 +20,6 @@ namespace HH.LUTTextureGenerator
         [MenuItem("Window/Generation/LUT", false, 10)]
         static void Init()
         {
-            Debug.Log("opening");
             // Get existing open window or if none, make a new one:
             LUTGenerator_EditorWindow window = (LUTGenerator_EditorWindow)EditorWindow.GetWindow(typeof(LUTGenerator_EditorWindow));
             window.titleContent = new GUIContent("LUT Generator", "LUT Texture Generator");
@@ -28,7 +27,6 @@ namespace HH.LUTTextureGenerator
 
             loadAssets();
             onPreviewMaterialChange(_currentMaterial);
-            Debug.Log("open");
         }
 
         protected void OnEnable ()
@@ -215,7 +213,6 @@ namespace HH.LUTTextureGenerator
             _currentMaterial = target;
 
             onSelectedTextureChange(_selectedTexture, true);
-            Debug.Log("material update done");
         }
 
         /// <summary>Updates the target texture property for previewing the gradient if a change is detected</summary>
