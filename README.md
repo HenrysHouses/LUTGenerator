@@ -21,7 +21,7 @@
 ## Setup
 
 - Install via Package Manager → Add package via git URL: 
-    - https://github.com/HenrysHouses/MultiSceneTools.git
+    - https://github.com/HenrysHouses/LUTGenerator.git
 - Alternatively, download and put the folder in your Assets
 - Open the LUT Generator Window under Window>Generation>LUT
 
